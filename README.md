@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hey 👋, I'm Ahmed Basha 👨‍💻
-A Full Stack Developer from Hyderabad, India.
+Full Stack Developer at EPAM Systems Inc 🏢, Hyderabad.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
